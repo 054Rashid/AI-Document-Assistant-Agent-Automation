@@ -1,0 +1,10 @@
+IT Support Policy
+
+Laptop problems
+If a company laptop stops working, the employee should first restart the device and check the company troubleshooting guide. If the issue continues, create an IT support ticket with a short description and any error message.
+
+Access issues
+For password or account-access problems, use the internal helpdesk portal. Urgent access issues should be marked as high priority and should include the affected system.
+
+Equipment requests
+New equipment requests need manager approval before they are sent to IT for fulfilment.
